@@ -160,9 +160,9 @@ models:
   openai_standard: "gpt-4.1"
 
   # Anthropic models
-  anthropic_latest: "claude-sonnet-4"
-  anthropic_current: "claude-sonnet-4"
-  anthropic_newest: "claude-sonnet-4"
+  anthropic_latest: "claude-sonnet-4-5"
+  anthropic_current: "claude-sonnet-4-5"
+  anthropic_newest: "claude-sonnet-4-5"
   anthropic_opus: "claude-opus-4"
 
   # Google models
@@ -185,7 +185,7 @@ models:
 
   # Model categories for different use cases
   best_for_code: "gpt-5"
-  best_for_creative: "claude-sonnet-4"
+  best_for_creative: "claude-sonnet-4-5"
   best_for_factual: "gemini-2.5-pro"
   best_for_vision: "gpt-4.1"
   best_for_audio: "gpt-4o-audio-preview"
